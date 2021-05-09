@@ -8,7 +8,7 @@ import discord
 from discord.ext import commands 
 
 
-#TOKEN = 'ODQwNzkwMDU1Mjc0ODA3MzI4.YJdUwg.-0TILbGGzoY5i1EuTJLDvlst5e0'
+TOKEN = '' #ingresar tu token privado del discort
 bot = commands.Bot(command_prefix = '/')
 
 @bot.command()
